@@ -5,11 +5,11 @@ import questionary
 
 
 
-def load_bank_data():
-    """Ask for the file path to the latest banking data and load the CSV file.
+def load_etf_data():
+    """Ask for the file path to the latest etf data and load the CSV file.
 
     Returns:
-        The bank data from the data rate sheet CSV file.
+        The etf data from the data rate sheet CSV file.
     """
 
     csvpath = questionary.text("Enter a file path to a rate-sheet (.csv):").ask()
