@@ -1,1 +1,1 @@
-# Project One - ETF Anakyzer
+# Project One - ETF Analyzer
