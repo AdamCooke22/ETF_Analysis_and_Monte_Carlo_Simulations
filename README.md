@@ -15,6 +15,7 @@ In this project, we applied financial analysis concepts to be able to give sound
 ### Technologies, libraries, dependencies
  
 A. Jupyter notebook / lab 
+
 B. Pandas 
 C. yfinance 
 D. Numpy 
