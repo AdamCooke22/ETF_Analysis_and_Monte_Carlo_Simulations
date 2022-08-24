@@ -59,3 +59,15 @@ See the codes that the team has written in file named "[project_one.ipynb](https
 
 The VS codes for the investor interace (CLI) is in "[questionexample.py](https://github.com/AdamCooke22/project_one/blob/main/questionexample.py)" 
 
+---
+
+## Contributors
+
+Completed by Adam Cooke, Ros Tiamzon, Nevyn Brown, Priya Sukumaran
+
+---
+
+## License
+
+MIT
+
