@@ -21,13 +21,14 @@ We selected 5 ETFs with diversified strategies for analysis:
 ### How this project works …....
 
 * We created an investor interface (CLI) where users can ask for which ETF is best to invest in based on:
-    Risk appetite (no/little risk, medium risk or high risk)
-    Type of ETF (Mutual Fund, Fixed Income Fund, Real Estate, Specialty/Sector, Dividend-Focused) 
-    Time / Investment Period (2, 5 or +10 years)
+    
+    * Risk appetite (no/little risk, medium risk or high risk)
+    * Type of ETF (Mutual Fund, Fixed Income Fund, Real Estate, Specialty/Sector, Dividend-Focused) 
+    * Time / Investment Period (2, 5 or +10 years)
 
-Investor interface will recommend ETF to invest in based on responses 
+* Investor interface will recommend ETF to invest in based on responses 
 
-Financial analysis and programming codes were used to come up with financial advice 
+* Financial analysis and programming codes were used to come up with financial advice 
 
 ==================================================================================
 
