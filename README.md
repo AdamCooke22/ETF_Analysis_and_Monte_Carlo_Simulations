@@ -11,15 +11,12 @@ The aim of our project is to provide investors advice on which Exchange Traded F
 In this project, we applied financial analysis concepts to be able to give sound advice to investors. In coming up with financial advice we used financial programming concepts and skills to calculate ETFs’ performance using historical data and forecasting future performance.
 
 We selected 5 ETFs with diversified strategies for analysis:
-   BND - Vanguard Bond ETF
-   
-   VNQ - Vanguard Real Estate Index Fund
-   
-   VOX - Vanguard Communication Services Index Fund
-   
-   VIG - Vanguard Dividend Appreciation Index Fund
-   
-   SNP - S&P 500 Index Fund
+
+      1. BND - Vanguard Bond ETF
+      2.VNQ - Vanguard Real Estate Index Fund
+      3. VOX - Vanguard Communication Services Index Fund
+      4. VIG - Vanguard Dividend Appreciation Index Fund
+      5. SNP - S&P 500 Index Fund
 
 How this project works ….
 
