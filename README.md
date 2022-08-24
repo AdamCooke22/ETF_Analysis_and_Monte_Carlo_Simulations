@@ -13,12 +13,12 @@ In this project, we applied financial analysis concepts to be able to give sound
 We selected 5 ETFs with diversified strategies for analysis:
 
       1. BND - Vanguard Bond ETF
-      2.VNQ - Vanguard Real Estate Index Fund
+      2. VNQ - Vanguard Real Estate Index Fund
       3. VOX - Vanguard Communication Services Index Fund
       4. VIG - Vanguard Dividend Appreciation Index Fund
       5. SNP - S&P 500 Index Fund
 
-How this project works ….
+### How this project works …....
 
 We created an investor interface (CLI) where users can ask for which ETF is best to invest in based on:
     Risk appetite (no/little risk, medium risk or high risk)
