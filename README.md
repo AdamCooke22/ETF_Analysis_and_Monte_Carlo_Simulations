@@ -17,12 +17,19 @@ In this project, we applied financial analysis concepts to be able to give sound
 A. Jupyter notebook / lab 
 
 B. Pandas 
+
 C. yfinance 
+
 D. Numpy 
+
 E. HVPLOT 
+
 F. Seaborn 
+
 G. Monte Carlo 
+
 H. MCforesttools 
+
    
 ==================================================================================
 
