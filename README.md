@@ -6,16 +6,22 @@
 
 ### Project Goal 
 
-In this Challenge assignment, you’ll build a financial database and web application by using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF.
+The aim of our project is to provide investors advice on which Exchange Traded Fund (ETF) is best to invest in (best returns) based on their risk appetite, type of ETF they prefer and time period they want to keep their money invested in.
+
+In this project, we applied financial analysis concepts to be able to give sound advice to investors. In coming up with financial advice we used financial programming concepts and skills to calculate ETFs’ performance using historical data and forecasting future performance.
 
 ==================================================================================
 
-### Technologies
+### Technologies, libraries, dependencies
  
 A. Jupyter notebook / lab
 B. Pandas
-C. SQL
+C. yfinance
 D. Numpy
 E. HVPLOT
+F. Seaborn
+G. Monte Carlo
+H. MCforesttools
    
 ==================================================================================
+
