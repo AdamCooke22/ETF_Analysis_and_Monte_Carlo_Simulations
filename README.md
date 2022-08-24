@@ -30,7 +30,7 @@ We selected 5 ETFs with diversified strategies for analysis:
 
 * Financial analysis and programming codes were used to come up with financial advice 
 
-==================================================================================
+===========================================================================
 
 ### Technologies, libraries, dependencies
  
@@ -51,7 +51,7 @@ G. Monte Carlo
 H. MCforesttools 
 
    
-==================================================================================
+===========================================================================
 
 ### Codes
 
