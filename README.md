@@ -10,6 +10,28 @@ The aim of our project is to provide investors advice on which Exchange Traded F
 
 In this project, we applied financial analysis concepts to be able to give sound advice to investors. In coming up with financial advice we used financial programming concepts and skills to calculate ETFs’ performance using historical data and forecasting future performance.
 
+We selected 5 ETFs with diversified strategies for analysis:
+   BND - Vanguard Bond ETF
+   
+   VNQ - Vanguard Real Estate Index Fund
+   
+   VOX - Vanguard Communication Services Index Fund
+   
+   VIG - Vanguard Dividend Appreciation Index Fund
+   
+   SNP - S&P 500 Index Fund
+
+How this project works ….
+
+We created an investor interface (CLI) where users can ask for which ETF is best to invest in based on:
+    Risk appetite (no/little risk, medium risk or high risk)
+    Type of ETF (Mutual Fund, Fixed Income Fund, Real Estate, Specialty/Sector, Dividend-Focused) 
+    Time / Investment Period (2, 5 or +10 years)
+
+Investor interface will recommend ETF to invest in based on responses 
+
+Financial analysis and programming codes were used to come up with financial advice 
+
 ==================================================================================
 
 ### Technologies, libraries, dependencies
